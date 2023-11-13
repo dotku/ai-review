@@ -1,4 +1,4 @@
-# ai-review
+# ai-reviews
 
 The AI is booming right now, but what would be the best AI suitable for you?
 
